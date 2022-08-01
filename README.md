@@ -1,24 +1,13 @@
 # weather-app-v2
 
-## Project setup
-```
-npm install
-```
+Improved weather app with more weather details using vue.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+'''
+Currently not responsive for mobile portrait mode
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Semi responsive for mobile landscape mode
 
-### Lints and fixes files
-```
-npm run lint
-```
+I would like to add better notifications for loading and error
+'''
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Website is hosted on github pages [here]()
